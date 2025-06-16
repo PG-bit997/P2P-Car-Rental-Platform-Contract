@@ -66,7 +66,8 @@ Our vision is to revolutionize the transportation industry by creating a truly d
 
 ## Contract Address
 
-**Testnet Contract Address**: `ST2EV4JDJQKWQV13H0VVHG66ABCTR1P8YR596CHR6.p2p-car-rental-platform`
+**Testnet Contract Address**: 
+`STGPBEW1DRVNA80A863AYGPGNJ91SYNBYKTZK0QB.peer-to-peer-car-rental-contract`
 
 ### Contract Functions
 
@@ -200,3 +201,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 *"The future of transportation is shared, sustainable, and decentralized."*
 
 Join the revolution in peer-to-peer car sharing. Own a car? Earn passive income. Need a car? Rent directly from your neighbors.
+<img width="1420" alt="screenshot (4)" src="https://github.com/user-attachments/assets/d86a4a2f-392f-421d-a7d3-75f277f79529" />
