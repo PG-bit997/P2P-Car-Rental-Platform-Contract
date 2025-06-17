@@ -1,4 +1,4 @@
-r
+
 ;; Peer-to-Peer Car Rental Contract
 ;; Owners can list cars, renters can book cars
 
